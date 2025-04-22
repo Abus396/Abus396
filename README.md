@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi I'm Abus 👋
 
-<!--
-**Abus396/Abus396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Technical Writer | API Documentation | SaaS | Developer Docs*
 
-Here are some ideas to get you started:
+I'm Passionate about simplifying complex tech through clear and useful documentation. Here you'll find sample projects focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ API Reference Documentation
+✅ Concept & Task-Based API Writing
+✅ SaaS & Developer- Focused Docs
+✅ Markdown + OpenAPI Spec Projects
+
+---
+## 📂 Featured Projects (in coming)
+
+---
+## 📚 Tools I Use
+- Markdown
+- OpenAPI (Swagger)
+- Postman
+- Stoplight
+- Git + GitHub
+- VS Code
+
+---
+## 📫 Let's Connect
+- Email: imuetinyan396@gmail.com
+
